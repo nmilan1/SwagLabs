@@ -19,6 +19,7 @@ https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices
 ---------------------------------------------------------
 
 Srating a test
+
 To start this automated test, first you are going to need Node.js, Node modules and Cypress.
 
 ---------------------------------------------------------
